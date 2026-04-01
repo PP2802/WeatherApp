@@ -34,6 +34,6 @@
 		<string>UIInterfaceOrientationPortrait</string>
 	</array>
 	<key>WeatherAPIKey</key>
-	<string>c157daae5b6b45888df110434252312</string>
+	<string>YOUR_WEATHER_API_KEY</string>
 </dict>
 </plist>
